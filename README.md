@@ -45,7 +45,7 @@ This project provides a RESTful API for a banking system, allowing users to regi
    ```
    PORT=3000
    JWT_SECRET=your_jwt_secret
-   MONGODB_URI=mongodb+srv://kumarbharatenduarya_db_user:Ow3SLyYUgVs08UAo@cluster0.gb2ehbo.mongodb.net/
+   MONGODB_URI=mongo_url
    EMAIL_USER=your_email@example.com
    EMAIL_PASS=your_email_password
    ```
